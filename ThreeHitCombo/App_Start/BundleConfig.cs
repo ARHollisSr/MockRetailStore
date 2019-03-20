@@ -23,7 +23,7 @@ namespace ThreeHitCombo
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap-flatly.css",
+                      "~/Content/bootstrap-superhero.css",
                       "~/Content/site.css"));
         }
     }
